@@ -1,0 +1,49 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1048,
+       "width": 940,
+       "x": 3570,
+       "y": 16
+    },
+    "marks": [],
+    "name": "Discord",
+    "percent": 0.6,
+    "swallows": [
+       {
+        "class": "^discord$",
+        "instance": "^discord$",
+        "title": "^Discord$",
+        "window_role": "^browser\\-window$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1048,
+       "width": 940,
+       "x": 2884,
+       "y": 16
+    },
+    "marks": [],
+    "name": "Slack | general | ISTE 240 Group 5",
+    "percent": 0.4,
+    "swallows": [
+       {
+        "class": "^Slack$",
+        "instance": "^slack$",
+       // "title": "^Slack\\ \\|\\ general\\ \\|\\ ISTE\\ 240\\ Group\\ 5$",
+        "window_role": "^browser\\-window$"
+       }
+    ],
+    "type": "con"
+}
+
