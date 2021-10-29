@@ -161,7 +161,7 @@ bindsym --release Mod1+Escape exec gllock
 # Wallpaper settings
 exec_always feh --bg-scale ~/Documents/wallPapers/gang.jpg ~/Documents/wallPapers/rimuru-4k.jpg && wal -R -n
 
-# Set collors for term
+# Set colors for term
 #exec_always wal -R -n
 
 # Opacity 
